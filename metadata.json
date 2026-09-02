@@ -1,0 +1,6 @@
+{
+  "name": "Hidrolavadora Inalámbrica 48V Colombia",
+  "description": "Landing page de e-commerce de alta conversión para la Hidrolavadora Inalámbrica 48V con Pago Contra Entrega y envíos desde Medellín.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
